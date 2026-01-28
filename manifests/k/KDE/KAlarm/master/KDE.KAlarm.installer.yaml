@@ -9,14 +9,14 @@ ProductCode: kalarm
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2873-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 089EB4A9EE5FC07DDAC2D7741B8417C4089FAFABC4C4C3409C142FC1D2550D24
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3031-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: E6438637DFA1DB5EDBA65F1506A462E002F209DAAC0E70B8DA1C728F5718A086
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-2873-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 089EB4A9EE5FC07DDAC2D7741B8417C4089FAFABC4C4C3409C142FC1D2550D24
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/kalarm/master/windows/kalarm-master-3031-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: E6438637DFA1DB5EDBA65F1506A462E002F209DAAC0E70B8DA1C728F5718A086
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
